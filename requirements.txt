@@ -1,0 +1,13 @@
+requests
+schedule
+google-api-python-client
+oauth2client
+google-cloud-bigquery
+google-auth-oauthlib
+pandas
+pyarrow
+pytz
+numpy
+scipy 
+sympy 
+nose

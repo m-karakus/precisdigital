@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+*.7z
+*.zip
+*.csv
+*.log
+key.json
